@@ -1,7 +1,7 @@
 
 <p align="center">
    <a rel="tacticalzero-website" href="https://tacticalzero.com/">
-   	<img src="TacticalZero.jpg" height="650" width="1500">
+   	<img src="https://tenor.com/view/anonalien-gif-7538741585176841156" height="650" width="1500">
    </a>
    </br></br>
    <img src="http://profile-counter.glitch.me/tacticalzero-profile-counter/count.svg" width="360">
