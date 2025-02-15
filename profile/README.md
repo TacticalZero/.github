@@ -1,7 +1,7 @@
 
 <p align="center">
    <a rel="tacticalzero-website" href="https://tacticalzero.com/">
-   	<img src="https://tenor.com/view/anonalien-gif-7538741585176841156" height="650" width="1500">
+   	<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTU5NzR3OHFoZjF4ODgwMjFhajA2ZXlwNmhkdWMxMGE1MWYxZHVraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" height="650" width="1500">
    </a>
    </br></br>
    <img src="http://profile-counter.glitch.me/tacticalzero-profile-counter/count.svg" width="360">
