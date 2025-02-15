@@ -1,7 +1,7 @@
 
 <p align="center">
    <a rel="tacticalzero-website" href="https://tacticalzero.com/">
-   	<img src="TacticalZero.jpg" width="555">
+   	<img src="TacticalZero.jpg" width="1005">
    </a>
    </br></br>
    <img src="http://profile-counter.glitch.me/tacticalzero-profile-counter/count.svg" width="360">
