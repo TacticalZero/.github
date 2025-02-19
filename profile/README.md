@@ -12,8 +12,6 @@
    </a>
    <img src="https://img.shields.io/github/commit-activity/m/TacticalZero/TacticalZero.github.io?color=ff69b4"></img>
    <img src="https://img.shields.io/github/repo-size/TacticalZero/TacticalZero.github.io"></img>
-   <a ref="vuepress-theme" href="https://theme-hope.vuejs.press">
-        <img src="https://img.shields.io/badge/vuepress%20theme-Hope-green"></img>
    </a>
    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
         <img alt="License" style="border-width:0" height="21" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/>
