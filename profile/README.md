@@ -1,20 +1,13 @@
-
 <p align="center">
    <a rel="tacticalzero-website" href="https://tacticalzero.com/">
-   	<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTU5NzR3OHFoZjF4ODgwMjFhajA2ZXlwNmhkdWMxMGE1MWYxZHVraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" height="650" width="1500">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTU5NzR3OHFoZjF4ODgwMjFhajA2ZXlwNmhkdWMxMGE1MWYxZHVraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" height="650" width="1500" />
    </a>
    </br></br>
-   <img src="http://profile-counter.glitch.me/tacticalzero-profile-counter/count.svg" width="360">
+   <img src="http://profile-counter.glitch.me/tacticalzero-profile-counter/count.svg" width="360" />
    </br></br>
-   <img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103"></img>
-   <a ref="github-action" href="https://github.com/TacticalZero/TacticalZero.github.io/actions/workflows/deploy-docs.yml">
-	<img src="https://github.com/TacticalZero/TacticalZero.github.io/actions/workflows/deploy-docs.yml/badge.svg"></img>
-   </a>
-   <img src="https://img.shields.io/github/commit-activity/m/TacticalZero/TacticalZero.github.io?color=ff69b4"></img>
-   <img src="https://img.shields.io/github/repo-size/TacticalZero/TacticalZero.github.io"></img>
-   </a>
+   <img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103" />
    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-        <img alt="License" style="border-width:0" height="21" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/>
+      <img alt="License" style="border-width:0" height="21" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
    </a>
 </p>
 
