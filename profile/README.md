@@ -4,9 +4,9 @@
 
 ---
 ##  Contact  
-- **Website**: [CyberOps Official](#)  
+- **Website**: [CyberOps Official](https://TacticalZero.github.io)  
 - **Email**: contact@cyberops.com  
-- **GitHub**: [CyberOps Repo](https://github.com/CyberOps)  
+- **GitHub**: [CyberOps Repo](https://github.com/orgs/TacticalZero/repositories)  
 
  **Stay Secure. Stay Vigilant.** 🚀  
 
